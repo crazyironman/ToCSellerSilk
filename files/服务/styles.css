@@ -247,3 +247,13 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u23 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:178px;
+  width:185px;
+  height:67px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
