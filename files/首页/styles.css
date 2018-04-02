@@ -585,3 +585,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u20 {
+  border-width:0px;
+  position:absolute;
+  left:313px;
+  top:618px;
+  width:54px;
+  height:49px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
