@@ -921,9 +921,9 @@
 #u559 {
   border-width:0px;
   position:absolute;
-  left:-4px;
+  left:0px;
   top:64px;
-  width:370px;
+  width:373px;
   height:449px;
   overflow:hidden;
   visibility:hidden;
@@ -933,7 +933,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:370px;
+  width:373px;
   height:449px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
