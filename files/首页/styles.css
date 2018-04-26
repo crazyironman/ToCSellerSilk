@@ -1730,3 +1730,43 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u58 {
+  border-width:0px;
+  position:absolute;
+  left:12px;
+  top:152px;
+  width:72px;
+  height:54px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u59 {
+  border-width:0px;
+  position:absolute;
+  left:153px;
+  top:152px;
+  width:72px;
+  height:54px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u60 {
+  border-width:0px;
+  position:absolute;
+  left:288px;
+  top:152px;
+  width:72px;
+  height:54px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u61 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:301px;
+  width:188px;
+  height:96px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
