@@ -994,9 +994,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:105px;
+  top:69px;
   width:375px;
-  height:240px;
+  height:250px;
   overflow:hidden;
   visibility:hidden;
 }
@@ -1006,7 +1006,7 @@
   left:0px;
   top:0px;
   width:375px;
-  height:240px;
+  height:250px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
