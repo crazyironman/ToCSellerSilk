@@ -196,10 +196,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-style:normal;
-  font-size:14px;
 }
 #u235 {
   border-width:0px;
@@ -208,10 +206,8 @@
   top:309px;
   width:71px;
   height:16px;
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-style:normal;
-  font-size:14px;
 }
 #u235_text {
   border-width:0px;
