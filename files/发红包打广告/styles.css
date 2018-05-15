@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:790px;
+  width:730px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -390,8 +390,8 @@
 #u384 {
   border-width:0px;
   position:absolute;
-  left:382px;
-  top:337px;
+  left:-1px;
+  top:473px;
   width:373px;
   height:162px;
   overflow:hidden;
@@ -1458,8 +1458,8 @@
 #u416 {
   border-width:0px;
   position:absolute;
-  left:417px;
-  top:19px;
+  left:0px;
+  top:12px;
   width:373px;
   height:723px;
   overflow:hidden;
